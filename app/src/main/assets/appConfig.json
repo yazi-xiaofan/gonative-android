@@ -9,9 +9,7 @@
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
     "initialUrl": "https://www.asos-app.com/",
-    "appName": "ASOS",
-    "publicKey": "elnkpq",
-    "deviceRegKey": "7wxwkwqyrhcc5fbj6ff7ex1qqm"
+    "appName": "ASOS"
   },
   "navigation": {
     "tabNavigation": {
