@@ -29,6 +29,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 import io.gonative.android.library.AppConfig;
+import io.gonative.androidpchome.R;
 
 
 public class SubscriptionsActivity extends AppCompatActivity {

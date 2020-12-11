@@ -28,6 +28,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import io.gonative.android.library.AppConfig;
+import io.gonative.android.library.BuildConfig;
+import io.gonative.androidpchome.R;
 
 /**
  * Created by weiyin on 6/24/14.

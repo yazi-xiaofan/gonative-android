@@ -83,6 +83,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import io.gonative.android.library.AppConfig;
+import io.gonative.androidpchome.R;
 
 public class MainActivity extends AppCompatActivity implements Observer,
         SwipeRefreshLayout.OnRefreshListener,

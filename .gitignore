@@ -7,3 +7,5 @@ app/build/
 build/
 captures/
 .DS_Store
+*.apk
+app/normal/release/output.json

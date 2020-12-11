@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.regex.Pattern;
 
 import io.gonative.android.library.AppConfig;
+import io.gonative.androidpchome.R;
 
 /**
  * Created by weiyin on 11/25/14.

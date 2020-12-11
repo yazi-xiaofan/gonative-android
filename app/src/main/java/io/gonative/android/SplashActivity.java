@@ -12,6 +12,7 @@ import java.util.HashSet;
 
 import androidx.core.content.ContextCompat;
 import io.gonative.android.library.AppConfig;
+import io.gonative.androidpchome.R;
 
 public class SplashActivity extends AppCompatActivity {
     private static final int REQUEST_PERMISSIONS_WEBRTC = 100;

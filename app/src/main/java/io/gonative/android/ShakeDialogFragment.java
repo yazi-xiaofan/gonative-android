@@ -9,6 +9,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
+import io.gonative.androidpchome.R;
+
 public class ShakeDialogFragment extends DialogFragment {
     public interface ShakeDialogListener {
         public void onClearCache(DialogFragment dialog);

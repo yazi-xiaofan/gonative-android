@@ -67,6 +67,7 @@ import java.util.Set;
 import java.util.regex.Pattern;
 
 import io.gonative.android.library.AppConfig;
+import io.gonative.androidpchome.R;
 
 enum WebviewLoadState {
     STATE_UNKNOWN,
