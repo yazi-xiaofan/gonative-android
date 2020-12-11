@@ -22,9 +22,9 @@
     <uses-permission android:name="${applicationId}.permission.C2D_MESSAGE" />
 
     <application
-        android:name="io.gonative.androidpchome.GoNativeApplication"
+        android:name="io.gonative.androidasos.GoNativeApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_actionbar"
         android:label="@string/app_name"
         android:logo="@drawable/ic_actionbar"
         android:theme="@style/GoNativeTheme.WithActionBar"
@@ -35,7 +35,7 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name="io.gonative.androidpchome.MainActivity"
+            android:name="io.gonative.androidasos.MainActivity"
             android:label="@string/app_name"
             android:configChanges="orientation|screenSize">
             <!--additional intent filters-->
@@ -67,7 +67,7 @@
         <meta-data android:name="com.onesignal.NotificationOpened.DEFAULT" android:value="DISABLE" />
 
         <activity
-            android:name="io.gonative.androidpchome.SplashActivity"
+            android:name="io.gonative.androidasos.SplashActivity"
             android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -75,7 +75,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="io.gonative.androidpchome.SubscriptionsActivity"
+        <activity android:name="io.gonative.androidasos.SubscriptionsActivity"
             android:label="@string/subscriptions_activity_title"/>
     </application>
 
