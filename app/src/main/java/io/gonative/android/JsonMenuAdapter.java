@@ -23,7 +23,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import io.gonative.android.library.AppConfig;
-import io.gonative.androidpchome.R;
+import io.gonative.androidasos.R;
 
 /**
  * Created by weiyin on 4/14/14.

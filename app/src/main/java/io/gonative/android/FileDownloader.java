@@ -29,7 +29,7 @@ import java.util.Map;
 
 import io.gonative.android.library.AppConfig;
 import io.gonative.android.library.BuildConfig;
-import io.gonative.androidpchome.R;
+import io.gonative.androidasos.R;
 
 /**
  * Created by weiyin on 6/24/14.

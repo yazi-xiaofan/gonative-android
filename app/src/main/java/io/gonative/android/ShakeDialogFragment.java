@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
-import io.gonative.androidpchome.R;
+import io.gonative.androidasos.R;
 
 public class ShakeDialogFragment extends DialogFragment {
     public interface ShakeDialogListener {

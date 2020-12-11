@@ -17,7 +17,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 import io.gonative.android.library.AppConfig;
-import io.gonative.androidpchome.R;
+import io.gonative.androidasos.R;
 
 /**
  * Created by weiyin on 5/9/14.
