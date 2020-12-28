@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://go-tiktok.com",
-    "appName": "GoTik",
+    "initialUrl": "https://www.coolcatapp.com",
+    "appName": "Cool Cat",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
