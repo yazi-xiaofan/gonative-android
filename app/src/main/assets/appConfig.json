@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://app.coolcatapp.app",
-    "appName": "Cool Cat",
+    "initialUrl": "https://www.tiktokcamps.com/",
+    "appName": "tiktokcamps",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
