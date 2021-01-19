@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://www.tiktokcamps.com/",
-    "appName": "tiktokcamps",
+    "initialUrl": "https://www.maketimeapp.com",
+    "appName": "maketime",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },

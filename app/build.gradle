@@ -6,7 +6,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 29
-        applicationId "com.like.dyyd"
+        applicationId "com.like.maketime"
         versionCode 3
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
