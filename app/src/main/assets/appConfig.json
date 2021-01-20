@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://www.maketimeapp.com",
-    "appName": "maketime",
+    "initialUrl": "https://www.nas-app.com",
+    "appName": "NAS",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
