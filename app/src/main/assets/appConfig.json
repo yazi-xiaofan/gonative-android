@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://www.nas-vip.com",
-    "appName": "NAS",
+    "initialUrl": "https://www.blibli.vip",
+    "appName": "BliBli.VIP",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
