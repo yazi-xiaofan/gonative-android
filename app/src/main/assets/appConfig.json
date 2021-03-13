@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://www.tik-me.com",
-    "appName": "TikTok Me",
+    "initialUrl": "https://likeall.co",
+    "appName": "LikeAll",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
