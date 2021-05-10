@@ -8,8 +8,8 @@
     "enableWindowOpen": true,
     "useCrosswalkWebView": false,
     "forceScreenOrientation": null,
-    "initialUrl": "https://www.grey-scale.cc/",
-    "appName": "GreyScale",
+    "initialUrl": "https://www.tuhoop.com",
+    "appName": "Turing AI",
     "publicKey": "mleyka",
     "deviceRegKey": "gv84gawv2tgx8nf57kkn82kd48"
   },
