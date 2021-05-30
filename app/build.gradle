@@ -6,7 +6,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 29
-        applicationId "com.www.snowai.cc"
+        applicationId "com.www.snowaiapp.com"
         versionCode 3
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
