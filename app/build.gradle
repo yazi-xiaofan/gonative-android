@@ -6,7 +6,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 29
-        applicationId "com.www.orson66.com"
+        applicationId "com.www.bh1116.com"
         versionCode 3
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
